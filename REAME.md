@@ -1,0 +1,1 @@
+Tutorial sobre el almacenamiento de archivos en la memoria interna del celular.
